@@ -1,5 +1,15 @@
 ### About
-GodsEye is a Windows and Android based RAT (remote access tool). It's highly advanced and has been around for about 4 years now. While it's private, this repo will contain a stripped down version with less features (for free). As it's private and only has a small amount of Users, it's fully undetected on all virus recognition websites, platforms and services. It utilizes many techniques to stay hidden and prevent detection.
+GodsEye is a Windows and Android based RAT (remote access tool). It's highly advanced and has been around for about 4 years now. While it's private, this repo will contain a stripped down version with less features (for free). As it's private and only has a small amount of Users, it's fully undetected on all virus recognition websites, platforms and services. It utilizes many techniques to stay hidden and prevent detection.  
+
+What is GodsEye created and being developed in?  
+- C & C++ (API / hardware access and remote desktop functionality)  
+- C# (GodsEye Windows GUI)  
+- Python (Communication handling)  
+- Go (server and remote management handling)  
+- Rust (Encryption and file management)  
+- JavaScript, NodeJS & React (Private web panel for managing GodsEye premium Users)  
+- Java (Android management)  
+- Kotlin (Android management)  
 
 <br>  
 
