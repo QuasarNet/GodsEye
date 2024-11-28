@@ -9,37 +9,37 @@ Below is a list of features for the free version only. To find out what features
 <details closed>
 <summary>Windows</summary>
 <br>
-- HostName Info
-- PC Name Info
-- Operating System Info
-- CPU Info
-- GPU Info
-- Storage Info
-- Installed Apps Info (Limited Access)
-- Limited File Access (Desktop & Downloads Only)
-- Limited Registry Access (Colours & Design Only)
-- IP Address Info
-- Location Info
-- KeyLogger
-- Sleep, Restart & Shut Down
+- HostName Info  
+- PC Name Info  
+- Operating System Info  
+- CPU Info  
+- GPU Info  
+- Storage Info  
+- Installed Apps Info (Limited Access)  
+- Limited File Access (Desktop & Downloads Only)  
+- Limited Registry Access (Colours & Design Only)  
+- IP Address Info  
+- Location Info  
+- KeyLogger  
+- Sleep, Restart & Shut Down  
 </details>
 
 <details closed>
 <summary>Android</summary>
 <br>
-- Phone Number Info
-- Product Name Info
-- Model Name Info
-- Serial Number Info
-- IMEI Info
-- IP Address Info
-- Location Info
-- Operating System Info
-- Baseband Version Info
-- Build Number Info
-- Installed Apps Info (Limited Access)
-- KeyLogger
-- Restart & Power Off
+- Phone Number Info  
+- Product Name Info  
+- Model Name Info  
+- Serial Number Info  
+- IMEI Info  
+- IP Address Info  
+- Location Info  
+- Operating System Info  
+- Baseband Version Info  
+- Build Number Info  
+- Installed Apps Info (Limited Access)  
+- KeyLogger  
+- Restart & Power Off  
 </details>
 
 <br>  
