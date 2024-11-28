@@ -50,7 +50,14 @@ There are a few ways which the GodsEye can be used:
 `Social media` Can be used with commands via social media platforms (Instagram, Telegram and Discord).  
 `Application` There's a GUI based application for Windows (8, 10 and 11) as well as for Android (10+).  
 
-The usage process is quite straight forward. Simply create a Client or bind with another executable file. This is what will be installed on the Targets system and used for interaction. Users can be managed in the "Clients" panel.
+The usage process is quite straight forward. Simply create a Client or bind with another executable file. This is what will be installed on the Targets system and used for interaction. Users can be managed in the "Clients" panel.  
+
+You can download the required files below:  
+[GodsEye Requirements](https://google.com/404)  
+[GodsEye EXE](https://google.com/404)  
+[GodsEye APK](https://google.com/404)  
+[GodsEye Commander (Command Line & Social Media Usage)](https://google.com/404)  
+[GodsEye Documentation](https://google.com/404)  
 
 <br>  
 
