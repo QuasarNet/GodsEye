@@ -1,6 +1,8 @@
 ### About
 GodsEye is a Windows and Android based RAT (remote access tool). It's highly advanced and has been around for about 4 years now. While it's private, this repo will contain a stripped down version with less features (for free). As it's private and only has a small amount of Users, it's fully undetected on all virus recognition websites, platforms and services. It utilizes many techniques to stay hidden and prevent detection.
 
+<br>  
+
 ### Features
 Below is a list of features for the free version only. To find out what features the premium version is, please get in contact with Me!
 
@@ -40,6 +42,8 @@ Below is a list of features for the free version only. To find out what features
 - Restart & Power Off
 </details>
 
+<br>  
+
 ### How To Use
 There are a few ways which the GodsEye can be used:
 `Command line` Can be used on all Terminals for Windows and Android (best to use Termux for Android).  
@@ -48,6 +52,8 @@ There are a few ways which the GodsEye can be used:
 
 The usage process is quite straight forward. Simply create a Client or bind with another executable file. This is what will be installed on the Targets system and used for interaction. Users can be managed in the "Clients" panel.
 
+<br>  
+
 ### Premium
 As mentioned, GodsEye is private. As the free version is limited, You can buy a premium subscription and extended Your options. There are several plans I offer, You can find them just below:
 
@@ -55,13 +61,19 @@ As mentioned, GodsEye is private. As the free version is limited, You can buy a 
 - `£15 monthly | Silver` Full access to all free features as well as 40+ premium features.  
 - `£22 monthly | Gold` Full access to all free features as well as 70+ premium features.  
 - `£30 monthly | Platinum` Full access to all features, 24/7 support and access to the private Telegram channel.  
-- `£45 monthly | Diamond` Full access to all features, 24/7 support, access to the private Telegram channel and early access to Beta / upcoming features.  
+- `£45 monthly | Diamond` Full access to all features, 24/7 support, access to the private Telegram channel and early access to Beta / upcoming features.
+
+<br>  
 
 ### Having Issues?
 For free Users, please open an issue and explain Your issue. For premium Users, do the same or leave a message in the private Telegram channel.
 
+<br>  
+
 > [!WARNING]
 > This repo and everything it contains is for educational purposes only. I'm not responsible for what You do with this software!
+
+<br>  
 
 ### Contact
 [Gmail](https://google.com/404)  
