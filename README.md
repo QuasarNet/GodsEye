@@ -45,7 +45,7 @@ Below is a list of features for the free version only. To find out what features
 <br>  
 
 ### How To Use
-There are a few ways which the GodsEye can be used:
+There are a few ways which the GodsEye can be used:  
 `Command line` Can be used on all Terminals for Windows and Android (best to use Termux for Android).  
 `Social media` Can be used with commands via social media platforms (Instagram, Telegram and Discord).  
 `Application` There's a GUI based application for Windows (8, 10 and 11) as well as for Android (10+).  
