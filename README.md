@@ -9,19 +9,19 @@ Below is a list of features for the free version only. To find out what features
 <details closed>
 <summary>Windows</summary>
 <br>
-- HostName Info  
-- PC Name Info  
-- Operating System Info  
-- CPU Info  
-- GPU Info  
-- Storage Info  
-- Installed Apps Info (Limited Access)  
-- Limited File Access (Desktop & Downloads Only)  
-- Limited Registry Access (Colours & Design Only)  
-- IP Address Info  
-- Location Info  
-- KeyLogger  
-- Sleep, Restart & Shut Down  
+HostName Info<br>
+PC Name Info<br>
+Operating System Info<br>
+CPU Info<br>
+GPU Info<br>
+Storage Info<br>
+Installed Apps Info (Limited Access)<br>
+Limited File Access (Desktop & Downloads Only)<br>
+Limited Registry Access (Colours & Design Only)<br>
+IP Address Info<br>
+Location Info<br>
+KeyLogger<br>
+Sleep, Restart & Shut Down
 </details>
 
 <details closed>
